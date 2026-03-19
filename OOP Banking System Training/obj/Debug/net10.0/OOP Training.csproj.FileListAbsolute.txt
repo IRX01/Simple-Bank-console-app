@@ -1,0 +1,14 @@
+d:\програмирование\OOP Training\bin\Debug\net10.0\OOP Training.exe
+d:\програмирование\OOP Training\bin\Debug\net10.0\OOP Training.deps.json
+d:\програмирование\OOP Training\bin\Debug\net10.0\OOP Training.runtimeconfig.json
+d:\програмирование\OOP Training\bin\Debug\net10.0\OOP Training.dll
+d:\програмирование\OOP Training\bin\Debug\net10.0\OOP Training.pdb
+d:\програмирование\OOP Training\obj\Debug\net10.0\OOP Training.GeneratedMSBuildEditorConfig.editorconfig
+d:\програмирование\OOP Training\obj\Debug\net10.0\OOP Training.AssemblyInfoInputs.cache
+d:\програмирование\OOP Training\obj\Debug\net10.0\OOP Training.AssemblyInfo.cs
+d:\програмирование\OOP Training\obj\Debug\net10.0\OOP Training.csproj.CoreCompileInputs.cache
+d:\програмирование\OOP Training\obj\Debug\net10.0\OOP Training.dll
+d:\програмирование\OOP Training\obj\Debug\net10.0\refint\OOP Training.dll
+d:\програмирование\OOP Training\obj\Debug\net10.0\OOP Training.pdb
+d:\програмирование\OOP Training\obj\Debug\net10.0\OOP Training.genruntimeconfig.cache
+d:\програмирование\OOP Training\obj\Debug\net10.0\ref\OOP Training.dll
